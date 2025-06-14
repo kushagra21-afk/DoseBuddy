@@ -39,10 +39,3 @@ DoseBuddy is a JavaScript project developed by [kushagra21-afk](https://github.c
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-*Add your license information here if applicable.*
-
----
-
-*Feel free to update this README with more details, screenshots, or usage instructions as your project grows!*
