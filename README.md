@@ -4,7 +4,7 @@ DoseBuddy is a JavaScript project developed by [kushagra21-afk](https://github.c
 
 ## Overview
 
-*DoseBuddy helps users manage and track their medication dosages efficiently.
+DoseBuddy helps users manage and track their medication dosages efficiently.
 
 ## Features
 
@@ -13,7 +13,6 @@ DoseBuddy is a JavaScript project developed by [kushagra21-afk](https://github.c
 - Dose history and analytics
 - Customizable medication schedules
 
-*(Edit or expand this list based on your actual features.)*
 
 ## Getting Started
 
